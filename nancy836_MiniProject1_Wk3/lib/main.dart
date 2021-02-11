@@ -31,10 +31,8 @@ class _HomeState extends State<Home> {
           fontSize: 30,
           fontWeight: FontWeight.w300 ))),
           actions: <Widget>[
-          IconButton(icon: Icon(Icons.search),
-              onPressed: () {
-                showSearch(context: context, delegate: DataSearch(listWords));
-              })
+          IconButton(icon: Icon(Icons.search)
+          )
         ],
         ),
         drawer: Drawer(
