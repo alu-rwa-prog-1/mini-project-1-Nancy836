@@ -1,4 +1,4 @@
-#Thu Feb 11 21:40:44 CAT 2021
+#Fri Feb 12 17:41:49 CAT 2021
 base.0=/Users/nancy/Documents/Mobile Dev/VS code/nancy836_MiniProject1_Wk3/nancy836_MiniProject1_Wk3/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
